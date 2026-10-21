@@ -1,0 +1,13 @@
+# WordPress configuration
+/web/wp-config.php
+
+# DDEV generated and private files
+/.ddev/.ddev-docker-compose-full.yaml
+/.ddev/.ddev-docker-compose-base.yaml
+/.ddev/.ddev-docker-compose-*.yaml
+/.ddev/.ddev-generated/
+/.ddev/.ddev-local/
+
+# Local environment files
+.env
+.env.*
